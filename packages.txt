@@ -1,0 +1,11 @@
+python 3.10 add to path, disable path limit
+https://visualstudio.microsoft.com/visual-cpp-build-tools/
+C++ package
+restart
+pip install imgui[glfw]
+pip install netifaces
+pip install keyboard
+pip install pyvisa
+pip install pywin32
+pip install numpy
+pip install matplotlib

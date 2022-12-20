@@ -1,0 +1,6 @@
+'Linear axis X', (0, 30)
+'Linear axis Y', (512, 30)
+'Linear axis Z', (1024, 30)
+'Oscilloscope', (1536, 58)
+'HV PSU', (2048, 51)
+'Camera', (2560, 15)
